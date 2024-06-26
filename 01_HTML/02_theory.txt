@@ -1,0 +1,32 @@
+html => Hyper Text Markup Language
+
+uses of html:-
+          =>to create web page on the browser.
+          =>to create structure on web page.
+
+http => Hyper Text Transfer Protocol
+
+In 1993 html was started or developed.
+
+Developed by TIM BERNERS LEE 
+
+html and hrml5 =>
+           html => Basic's
+           html5 => embed multimedia :- audio, video, grapics tag.
+
+
+What is tag ?
+=> A word written with angle bracket is known as tag for example <html>.
+
+
+Tags are of two types =>
+1. closing/ structure tag which is started and ended for ex. <html>..........</html>
+2. non-closing/ void tag / non-structure tag for ex. <img>, <br>, <meta>, etc.
+
+
+What is an element ?
+=> A word written between angle bracket is known as an element for ex. in <img> tag img is an element.
+
+What is an attribute ?
+It is an additional functionality. for ex.
+<body bgcolor="" background=""> here, bgcolor and background is an attribute.
