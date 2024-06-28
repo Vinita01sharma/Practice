@@ -30,3 +30,8 @@ What is an element ?
 What is an attribute ?
 It is an additional functionality. for ex.
 <body bgcolor="" background=""> here, bgcolor and background is an attribute.
+
+
+Sђᴀя₥ᴀ_√í₦ítᴀ
+
+Sђᴀя₥ᴀ_ꓥí₦ítᴀ
