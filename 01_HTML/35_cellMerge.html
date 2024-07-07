@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- some css property : text-align, background-color, color, border-color, height, width -->
+
+    <!-- for merge cell use rowspan and colspan attribute. -->
+
+    <!-- when we use rowspan remove columns from next row. -->
+    <!-- when we use colspan remove columns on that particular row -->
+
+    <table border="1"
+        style="text-align: center; background-color: darksalmon; color: white; border-color: beige; height: 200px; width: 400px;"
+        rules="all">
+        <caption style="color:blue;">A test table with merge cell</caption>
+        <!-- 1st row -->
+        <tr style="background-color: rgb(237, 73, 19);">
+            <td rowspan="2"></td>
+            <td colspan="2">Average</td>
+            <td rowspan="2">Red Eyes</td>
+
+        </tr>
+        <!-- 2nd row -->
+
+        <tr style="background-color: rgb(237, 73, 19);">
+
+            <td>height</td>
+            <td>width</td>
+
+        </tr>
+        <!-- 3rd row -->
+        <tr>
+            <td>Male</td>
+            <td>1.5</td>
+            <td>40%</td>
+            <td>0.022</td>
+
+        </tr>
+        <!-- 4th row -->
+        <tr>
+            <td>Female</td>
+            <td>1.2</td>
+            <td>30%</td>
+            <td>0.004</td>
+
+        </tr>
+    </table>
+</body>
+
+</html>
